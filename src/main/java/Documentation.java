@@ -9,5 +9,8 @@ public class Documentation {
      *   Run the following Command :
      *             git update-index --chmod=+x gradlew
      *
+     *
+     * Creating new branch:
+     *     git checkout -b 'pr-test'
      * **/
 }
